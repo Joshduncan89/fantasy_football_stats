@@ -18,5 +18,6 @@ I looked at the distributions of the data and the value counts for the various c
 ## Screenshots
 
 <img src="https://github.com/Joshduncan89/fantasy_football_stats/blob/master/screenshots/Screenshot6.png?raw=true" width="300" height="300"><img src="https://github.com/Joshduncan89/fantasy_football_stats/blob/master/screenshots/Screenshot7.png?raw=true" width="300" height="300">
+
 <img src="https://github.com/Joshduncan89/fantasy_football_stats/blob/master/screenshots/Screenshot7.png?raw=true" width="300" height="300"><img src="https://github.com/Joshduncan89/fantasy_football_stats/blob/master/screenshots/Screenshot7.png?raw=true" width="300" height="300">
 
