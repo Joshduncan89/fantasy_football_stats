@@ -14,7 +14,7 @@ After scraping the data, I needed to clean it up so that it was usable for the m
 - Extract data to CSV based on year
 - Add rank columns for Top N by position
 ### EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the tables.
 ## Screenshots
 
 <img src="https://github.com/Joshduncan89/fantasy_football_stats/blob/master/screenshots/Screenshot6.png?raw=true" width="400" height="400">      <img src="https://github.com/Joshduncan89/fantasy_football_stats/blob/master/screenshots/Screenshot7.png?raw=true" width="600" height="400">
