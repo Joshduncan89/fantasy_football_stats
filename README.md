@@ -1,6 +1,5 @@
 ## Fantasy Predictor: Project Overview (IN PROGRESS...)
 Created a tool that collects NFL Player stats
-- Web scraping using Pandas
 - ETL process using Pandas, Numpy
 - Data Visualization using Searborn, Matplotlib
 - Web Scraping
